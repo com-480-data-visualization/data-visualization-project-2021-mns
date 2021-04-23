@@ -78,13 +78,17 @@ We can separate the tasks like the following:
 
 ## Exploratory Data Analysis
 
-- We did t
+- The data is rich and can be used for many Machine Learning or Visualization purposes. We did a basic data analysis to check null values and how the columns are correlated [here](../code/EDA.ipynb).
 
-- How the details of movie principals are correlated:
-[figure 1](../Figures/imdbNames.png)
+    - We did a basic summary of each table and tried to visualize how its columns are correlated.
 
-- How the IMDb scores counts are distributeds
-[figure 2](../Figures/scoresDistribution.png)
+        - How the details of movie principals are correlated:
+        [figure 1](../Figures/imdbNames.png)
+
+        - How the IMDb scores counts are distributeds
+        [figure 2](../Figures/scoresDistribution.png)
+    
+    - We can join the IMDb data and the MovieLens data using the movieId and imdbId columns in the link.csv file.
 
 ## Related work
 
