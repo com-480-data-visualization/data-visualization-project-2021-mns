@@ -88,7 +88,7 @@ We can separate the tasks like the following:
         - How the IMDb scores counts are distributeds
         [figure 2](../Figures/scoresDistribution.png)
     
-    - We can join the IMDb data and the MovieLens data using the movieId and imdbId columns in the link.csv file.
+    - We can join the IMDb data and the MovieLens data using the movieId and imdbId columns in the link.csv file. This final dataset contains 97969 rows × 54 columns, and will be the basis for our work.
 
 ## Related work
 
