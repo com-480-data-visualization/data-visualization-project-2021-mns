@@ -78,7 +78,7 @@ We can separate the tasks like the following:
 
 ## Exploratory Data Analysis
 
-- The data is rich and can be used for many Machine Learning or Visualization purposes. We did a basic data analysis to check null values and how the columns are correlated [here](../code/EDA.ipynb).
+- The data is rich and can be used for many Machine Learning or Visualization purposes. We did a basic data analysis to check null values and how the columns are correlated [here](../Code/EDA.ipynb).
 
     - We did a basic summary of each table and tried to visualize how its columns are correlated.
 
