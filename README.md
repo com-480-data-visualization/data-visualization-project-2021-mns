@@ -97,16 +97,17 @@ We can separate the tasks like the following:
 ### Related work
 
 - What others have already done with the data?
-[Cinematic Names](https://maryzam.github.io/movie-names/) 
-[Billions at the Franchise Box Office](https://flowingdata.com/2019/02/20/franchise-box-office/)
-[Bang for Your Buck](http://projects.nickdiana.com/datafun/movieQualityVsDuration/)
+[Cinematic Names](https://maryzam.github.io/movie-names/): This visualization shows the huge impact of a daily life on a process of choosing names for TV & movie characters. The ideas of the graphics used in this analysis are very interesting and could be a source of inspiration for our project.
+[Billions at the Franchise Box Office](https://flowingdata.com/2019/02/20/franchise-box-office/): The graphic presented in this work is really meaningful and shows the cumulative earnings of each movie during the years. This is an easy to use graphic that offers a perfect way to search for any movie that we would like to see its grosses.
+[Bang for Your Buck](http://projects.nickdiana.com/datafun/movieQualityVsDuration/): The idea behind this analysis is original, since they are affering the opportunity to compare movies by their quality versus the duration by exploring concentration of quality measured in four ways: MetaCritic Score, IMDB Rating, Gross, and Budget.
 
 - Why is your approach original?
-We will be creating a interactive visualization with the 
+We will be creating an interactive visualization with the combination of two datasets to provide the easiest way of understanding the available informations. We will try to make it as interactive and enjoyable as possible so that users can play around with.
+Colourful maps and graphics will be our main goal
 
 - What source of inspiration do you take? Visualizations that you found on other websites or magazines (might be unrelated to your data).
-[Marvel Cinematic Univers](https://live.yworks.com/demos/promo/GDC2019/)
-[Discovering the Olympic Games](https://com-480-data-visualization.github.io/com-480-project-knn-viz/website/map.html)
+[Marvel Cinematic Univers](https://live.yworks.com/demos/promo/GDC2019/): One of the creative topics contest organized by the Graph Drawing and Networks Visualization that deals with the relationship between Marvel superheros and the movies in which they appear. The web page provides a very filtered views which make it fun exploring the Marvel Cinematic universe. 
+[Discovering the Olympic Games](https://com-480-data-visualization.github.io/com-480-project-knn-viz/website/map.html): A nice example of one of the ideas that we are interested in, which is the interactive map.
 
 - Part of the datasets are being used in CS-449-Systems for Data Science, but the scope is totally different. As the other projects goal is to create a knn based recommender system.
 
