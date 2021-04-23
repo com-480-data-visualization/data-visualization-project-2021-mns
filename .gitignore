@@ -1,2 +1,3 @@
-./Data/iMDB
-./Data/ml-latest-small
+.*
+Data/iMDB
+Data/ml-latest-small
