@@ -94,6 +94,7 @@ We can separate the tasks like the following:
 [Bang for Your Buck](http://projects.nickdiana.com/datafun/movieQualityVsDuration/): The idea behind this analysis is original, since they are affering the opportunity to compare movies by their quality versus the duration by exploring concentration of quality measured in four ways: MetaCritic Score, IMDB Rating, Gross, and Budget.
 
 - Why is your approach original?
+
 We will be creating an interactive visualization with the combination of two datasets to provide the easiest way of understanding the available informations. We will try to make it as interactive and enjoyable as possible so that users can play around with.
 Colourful maps and graphics will be our main goal
 
