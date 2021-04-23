@@ -81,6 +81,8 @@ We can separate the tasks like the following:
 > Pre-processing of the data set you chose
 > - Show some basic statistics and get insights about the data
 
+- 
+
 ## Related work
 
 - What others have already done with the data?
