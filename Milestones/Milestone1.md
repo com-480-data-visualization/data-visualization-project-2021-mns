@@ -8,7 +8,7 @@ The **MovieLens dataset**:
 
 This dataset contains 100,000 ratings and 3,600 tag applications applied to 9,000 movies by 600 users. It was last updated on 9/2018.
 
-The **imdb dataset**:
+The **IMDb dataset**:
 
 The movies dataset contains 85,855 movies with attributes such as movie description, average rating, number of votes, genre, etc.
 
@@ -78,7 +78,13 @@ We can separate the tasks like the following:
 
 ## Exploratory Data Analysis
 
-- 
+- We did t
+
+- How the details of movie principals are correlated:
+[figure 1](../Figures/imdbNames.png)
+
+- How the IMDb scores counts are distributeds
+[figure 2](../Figures/scoresDistribution.png)
 
 ## Related work
 
