@@ -78,9 +78,6 @@ We can separate the tasks like the following:
 
 ## Exploratory Data Analysis
 
-> Pre-processing of the data set you chose
-> - Show some basic statistics and get insights about the data
-
 - 
 
 ## Related work
