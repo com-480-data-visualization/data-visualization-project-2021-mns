@@ -1,5 +1,34 @@
 # Data:
 
-The data is arramge in the following way:
+The data is arranged in the following way:
+
+
 
 > -
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
