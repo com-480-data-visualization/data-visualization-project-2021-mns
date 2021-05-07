@@ -8,7 +8,7 @@ Our project aims to visualize the evolution of movies across countries and over 
 ![image](../Figures/World_map.jpeg)
 
 An example of a map that we tried to create is shown above.
-It will be our main visualization. we will work on adding the ability to select any country on click and showing as a result different statistics bases on that specific one. Some popus should be seen to make it as interactive as we would like it to be.
+It will be our main visualization. we will work on adding the ability to select any country on click and showing as a result different statistics bases on that specific one (as shown in the part 1.3 and 1.4 below). Some popus should be seen to make it as interactive as we would like it to be.
 
 ### 1.2 Year visualisation :
 As seen in the above sketch we will try and use a toolbar for visualizing the movie industry evolution in time.
@@ -24,6 +24,9 @@ We aim to show the dominant genre of movies in each country. By clicking on the 
 In each county we will display its average rating accross all its movies and the max rating of the best movie.
 
 ### 1.5 Best movies:
+In addition to the map, we will display two other visualization that will be offering the possibilty of showing the best movies of all time in an interactive way.
+This will consist of some graphs as below.
+Selecting the year should be also possible.
 - All time best movies:
 ![image](../Figures/bestMovies.png)
 
@@ -31,6 +34,7 @@ In each county we will display its average rating accross all its movies and the
 ![image](../Figures/bestMovies21st.png)
 
 ### 1.6 Production Companies:
+At the end of our website, we will add another interaction which will treat our data based on production companies.
 
 - All time best production Companies:
 ![image](../Figures/allTimeBestComp.png)
