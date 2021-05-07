@@ -1,3 +1,9 @@
+
+h1 {
+  font-size: 2rem;
+}
+
+
 .title-style {
     background-color:#C6E2FF;
     margin-bottom:0;
@@ -10,7 +16,7 @@
   /* Space above and below the title */
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #088DA5 /*linear-gradient(to right, #3498eb, #eb344f);
+  background-color: #088DA5 /*linear-gradient(to right, #3498eb, #eb344f);*/
 
   /* Center the title using flexbox */
   display: flex;
