@@ -10,7 +10,7 @@
   /* Space above and below the title */
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-image: #088da5 /*linear-gradient(to right, #3498eb, #eb344f);
+  background-color: #088da5 /*linear-gradient(to right, #3498eb, #eb344f);
 
   /* Center the title using flexbox */
   display: flex;
