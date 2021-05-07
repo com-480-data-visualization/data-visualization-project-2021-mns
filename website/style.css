@@ -1,5 +1,19 @@
-.title_style {
+.title-style {
     background-color:#C6E2FF;
     margin-bottom:0;
     text-align:center;
+}
+
+/* The box with a dark background and our site's title */
+.title-row {
+  width: 100%;
+  /* Space above and below the title */
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-image: linear-gradient(to right, #3498eb, #eb344f);
+
+  /* Center the title using flexbox */
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
