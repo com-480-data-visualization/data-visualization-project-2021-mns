@@ -20,18 +20,20 @@
 
 /* Style of the title inside the box */
 .title-row h1 {
-  font-size: 3.5rem;
-  color: white;
-  font-variant: small-caps;
+    font-size: 3.5rem;
+    color: white;
+    font-variant: small-caps;
+    text-align:center;
 	text-shadow: 4px 4px #000000;
 
 }
 
 /* Style of the title inside the box */
 .title-row p {
-  font-size: 3rem;
-  color: white;
-  font-variant: small-caps;
-	text-shadow: 4px 4px #000000;
+    font-size: 3rem;
+    color: white;
+    font-variant: small-caps;
+    text-align:center;
+    text-shadow: 4px 4px #000000;
 
 }

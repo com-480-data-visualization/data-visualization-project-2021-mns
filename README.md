@@ -21,7 +21,6 @@ Go [here](./Milestones/Milestone2.md) to view the milestone 2 and [here](https:/
 **80% of the final grade**
 
 ## Late policy
-
 - < 24h: 80% of the grade for the milestone
 - < 48h: 70% of the grade for the milestone
 
