@@ -14,7 +14,7 @@ Go [here](./Milestones/Milestone1.md) to view the milestone 1.
 
 ## Milestone 2 (7th May, 5pm)
 
-Go [here](./Milestones/Milestone2.md) to view the milestone 2.
+Go [here](./Milestones/Milestone2.md) to view the milestone 2 and [here](https://com-480-data-visualization.github.io/data-visualization-project-2021-mns/website/) for our website.
 
 ## Milestone 3 (4th June, 5pm)
 
