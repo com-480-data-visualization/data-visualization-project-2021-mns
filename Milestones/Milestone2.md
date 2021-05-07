@@ -7,10 +7,12 @@ Our project aims to visualize the evolution of movies across countries and over 
 ### 1.1 Movies densities across countries:
 ![image](../Figures/World_map.jpeg)
 
-Develop... (toolbar...)
+An axample of a map that we tried to create is shown above.
+It will be the our main visualization. we will work on adding the ability to select any country on click and showing as a result different statistics bases on that specific one. Some popus should be seen to make it as interactive as we would like it to be.
 
 ### 1.2 Year visualisation :
-As seen in the above sketch we will try and use a toolbar for visualizing the movie industry evolution in time. (Slider for years)
+As seen in the above sketch we will try and use a toolbar for visualizing the movie industry evolution in time.
+We would develop a nice desing for the choice of the time scale so that users can choose the year that they want to analyse.
 
 ### 1.3 Movies by Genre in Each country:
 ![image](../Figures/moviesByGenre.png)
