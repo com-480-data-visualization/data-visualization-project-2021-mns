@@ -43,7 +43,7 @@ Our project aims to visualize the evolution of movies across countries and over 
 **The final result of this viusalisation will be something like what is seen [here](https://flowingdata.com/2019/02/20/franchise-box-office/)**
 
 ### Skeleton:
-[Website](https://com-480-data-visualization.github.io/data-visualization-project-2021-mns/Code/map)
+[Website](https://com-480-data-visualization.github.io/data-visualization-project-2021-mns/website/)
 
 
 ## Tools
