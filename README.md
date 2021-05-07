@@ -14,7 +14,7 @@ Go [here](./Milestones/Milestone1.md) to view the milestone 1.
 
 ## Milestone 2 (7th May, 5pm)
 
-Go [here](./Milestones/Milestone2.md) to view the milestone 1.
+Go [here](./Milestones/Milestone2.md) to view the milestone 2.
 
 ## Milestone 3 (4th June, 5pm)
 
