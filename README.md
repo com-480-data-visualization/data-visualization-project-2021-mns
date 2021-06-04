@@ -20,6 +20,10 @@ Go [here](./Milestones/Milestone2.md) to view the milestone 2 and [here](https:/
 
 Go [here](./Milestones/Process_book.pdf) to view the process book and [here](https://com-480-data-visualization.github.io/data-visualization-project-2021-mns/website/) for our website. The video can be viewed [here](./Milestones/dataviz.mp4)
 
+-You can find the code in the file website.
+-All the data cleaning and processing is the file data.
+-The index.html in website file is the one responsible for the redirection to the visualization.
+
 
 ## Late policy
 - < 24h: 80% of the grade for the milestone
