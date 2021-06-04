@@ -152,17 +152,23 @@ var width = screen_width ;
           // set content
 
           modal.setContent(`<div>
-            <h1 style="color:black">
+            <h1 style="color:#154693">
               `+ this.getAttribute("name")+`
             </h1>
-            <h3 style="color:black">
+            <h3 style="color:#1554A9">
               Most produced genre: `+ this.dataset.genre+`
             </h3>
-            <h3 style="color:black">
+            <h3 style="color:#1554A9">
               Director with most movies: `+ this.dataset.director+`
             </h3>
-            <h3 style="color:black">
+            <h3 style="color:#1554A9">
               Writer with most movies: `+ this.dataset.writer+`
+            </h3>
+            <h3 style="color:#1554A9">
+              Most popular production company: `+ this.dataset.production_company+`
+            </h3>
+            <h3 style="color:#1554A9">
+              Most popular actor: `+ this.dataset.actors+`
             </h3>
           </div>`);
 
