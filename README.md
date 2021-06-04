@@ -18,8 +18,7 @@ Go [here](./Milestones/Milestone2.md) to view the milestone 2 and [here](https:/
 
 ## Milestone 3 (4th June, 5pm)
 
-**80% of the final grade**
-Go [here](./Milestones/Process_book.pdf) to view the milestone 2 and [here](https://com-480-data-visualization.github.io/data-visualization-project-2021-mns/website/) for our website.
+Go [here](./Milestones/Process_book.pdf) to view the process book and [here](https://com-480-data-visualization.github.io/data-visualization-project-2021-mns/website/) for our website. The video can be viewed [here](./Milestones/dataviz.mp4)
 
 
 ## Late policy
